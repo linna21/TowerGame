@@ -15,7 +15,7 @@ bio-current:
     - Robust Modeling for Big Data with Complex Structures
     - Machine Learning Methods for Large-scale Electronic Health Record Data Analysis
     - High-dimensional Data Analysis
-    homepage: 
+  homepage: 
     - https://sph.unc.edu/adv_profile/baiming-zou-phd/ 
     - https://sph.unc.edu/wp-content/uploads/sites/112/2020/02/CV_BZou.pdf
     # 如果有多个主页，请都填写上

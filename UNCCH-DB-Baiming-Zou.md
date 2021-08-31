@@ -15,8 +15,6 @@ bio-current:
     - Robust Modeling for Big Data with Complex Structures
     - Machine Learning Methods for Large-scale Electronic Health Record Data Analysis
     - High-dimensional Data Analysis
-
-  # 分点罗列，依次以 ‘-’ 开头
   homepage: 
     - https://sph.unc.edu/adv_profile/baiming-zou-phd/ 
     - https://sph.unc.edu/wp-content/uploads/sites/112/2020/02/CV_BZou.pdf
@@ -77,10 +75,10 @@ collaboration: # 合作研究，关注学者和其他哪些学科的人合作，
 group: 
   - Nature
   - BMJ
-  -	Statistics in Medicine
+  - Statistics in Medicine
   - Pharmaceutical Statistics
-  -	Journal of Biopharmaceutical Statistics
-  -	Journal of Dental Research
+  - Journal of Biopharmaceutical Statistics
+  - Journal of Dental Researcdf
 
 # 所属团队，学者可能有不同的兴趣小组，可以列上去
 job-faculty-1: # 所属机构，若有多个增加编号即可，字段填写参看示例文件

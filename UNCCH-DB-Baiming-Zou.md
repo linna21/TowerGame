@@ -35,13 +35,13 @@ edu-phd:  # 读博经历
   advisor: # 格式：导师名 [邮箱/网址]
   degree: PhD
 edu-master1: # 硕士经历，没有或找不到，可不填
-  university: University of Wisconsin — Madison
+  university: University of Wisconsin-Madison
   school: Computer Science [https://www.cs.wisc.edu/]
   date-start: 
   date-end: 1999
   advisor:
 edu-master2: # 硕士经历，没有或找不到，可不填
-  university: University of Wisconsin — Madison
+  university: University of Wisconsin-Madison
   school: Physics 
   date-start: 
   date-end: 1999

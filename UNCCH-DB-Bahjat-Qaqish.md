@@ -1,7 +1,7 @@
 ---
 bio-current:
   name-cn: 
-  name_en: Bahjat Qaqish
+  name_en: Bahjat-Qaqish
   email: 
     - bahjat_qaqish@unc.edu
     - qaqish@bios.unc.edu  # 如果有多个邮箱，请都填写上

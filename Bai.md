@@ -1,23 +1,20 @@
 ---
 bio-current:
   name-cn: 
-  name_en: Bahjat Qaqish
+  name_en: Baiming Zou
   email: 
-    - bahjat_qaqish@unc.edu
-    - qaqish@bios.unc.edu  # 如果有多个邮箱，请都填写上
+    - bzou@email.unc.edu  
   sex: male
   birth-date: # yyyy 到年即可
   university: University of North Carolina at Chapel Hill 
-  school: Department of Biostatistics [https://sph.unc.edu/bios/biostatistics/]
+  school: Department of Biostatistics [https://sph.unc.edu/bios/biostatistics/] # 格式：学院名称[学院官网链接]
   major: 
-  title-raw: Professor
-  title: Professor
+  title-raw: Assistant Professor # 主页原始字符串
+  title: Assistant Professor
   interests: 
-    - Cancer
-    - Clinical trials
-    - Environment (general)
-    - Global health
-    - Health care delivery
+    - Robust Modeling for Big Data with Complex Structures
+    - Machine Learning Methods for Large-scale Electronic Health Record Data Analysis
+    - High-dimensional Data Analysis
   homepage: 
     - https://sph.unc.edu/adv_profile/bahjat-qaqish-phd/ 
     - http://www.bios.unc.edu/~qaqish/

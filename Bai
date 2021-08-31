@@ -1,0 +1,19 @@
+---
+bio-current:
+  name-cn: 
+  name_en: Baiming Zou
+  email: 
+    - bzou@email.unc.edu  
+  sex: male
+  birth-date: # yyyy 到年即可
+  university: University of North Carolina at Chapel Hill 
+  school: Department of Biostatistics [https://sph.unc.edu/bios/biostatistics/] # 格式：学院名称[学院官网链接]
+  major: 
+  title-raw: Assistant Professor # 主页原始字符串
+  title: Assistant Professor
+  interests: 
+    - Robust Modeling for Big Data with Complex Structures
+    - Machine Learning Methods for Large-scale Electronic Health Record Data Analysis
+    - High-dimensional Data Analysis
+
+  # 分点罗列，依次以 ‘-’ 开头

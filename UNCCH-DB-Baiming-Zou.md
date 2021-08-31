@@ -76,15 +76,10 @@ collaboration: # 合作研究，关注学者和其他哪些学科的人合作，
     project: An Innovative Precision Medicine Platform to Revolutionize Injury Care
 group: 
   - Nature
-
   - BMJ
-
   -	Statistics in Medicine
-
   - Pharmaceutical Statistics
-
   -	Journal of Biopharmaceutical Statistics
-
   -	Journal of Dental Research
 
 # 所属团队，学者可能有不同的兴趣小组，可以列上去

@@ -68,7 +68,7 @@ collaboration: # 合作研究，关注学者和其他哪些学科的人合作，
     project: Creating a Toolkit for Person and Family Engagement
   - 
     with: Angell, Amber
-    project: Characterizing the Health and Healthcare Utilization of Girls with Autism Spectrum Disorder in Florida
+    project: ':'Characterizing the Health and Healthcare Utilization of Girls with Autism Spectrum Disorder in Florida
   - 
     with: Kiefer, Adam
     project: An Innovative Precision Medicine Platform to Revolutionize Injury Care
